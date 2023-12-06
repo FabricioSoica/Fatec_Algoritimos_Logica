@@ -17,3 +17,4 @@ def exibir_menu():
         else:
             print('Opção inválida, digite um número entre 1 e 3')
             continue
+.
